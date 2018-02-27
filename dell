@@ -1,4 +1,4 @@
-package 'httpd' do
+hegpackage 'httpd' do
 action :install
 end
 service 'httpd' do
